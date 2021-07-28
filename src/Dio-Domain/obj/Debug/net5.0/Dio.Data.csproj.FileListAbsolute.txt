@@ -1,0 +1,15 @@
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\obj\Debug\net5.0\Dio.Data.csproj.AssemblyReference.cache
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\obj\Debug\net5.0\Dio.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\obj\Debug\net5.0\Dio.Data.AssemblyInfoInputs.cache
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\obj\Debug\net5.0\Dio.Data.AssemblyInfo.cs
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\obj\Debug\net5.0\Dio.Data.csproj.CoreCompileInputs.cache
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\bin\Debug\net5.0\Dio.Data.deps.json
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\bin\Debug\net5.0\Dio.Data.dll
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\bin\Debug\net5.0\ref\Dio.Data.dll
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\bin\Debug\net5.0\Dio.Data.pdb
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\bin\Debug\net5.0\Dio.Domain.dll
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\bin\Debug\net5.0\Dio.Domain.pdb
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\obj\Debug\net5.0\Dio.Data.csproj.CopyComplete
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\obj\Debug\net5.0\Dio.Data.dll
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\obj\Debug\net5.0\ref\Dio.Data.dll
+D:\Projetos\Dio\C#\Bootcamp-Dio-Series\src\Dio-Domain\obj\Debug\net5.0\Dio.Data.pdb

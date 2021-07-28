@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dio.Application/1.0.0": {
+        "dependencies": {
+          "Dio.Data": "1.0.0"
+        },
+        "runtime": {
+          "Dio.Application.dll": {}
+        }
+      },
+      "Dio.Data/1.0.0": {
+        "dependencies": {
+          "Dio.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Dio.Data.dll": {}
+        }
+      },
+      "Dio.Domain/1.0.0": {
+        "runtime": {
+          "Dio.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dio.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dio.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Dio.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
